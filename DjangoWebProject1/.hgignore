@@ -1,0 +1,3 @@
+syntax: glob
+DjangoWebProject1/env/
+*.pyc
